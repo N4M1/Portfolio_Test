@@ -19,6 +19,17 @@ Animate.css
   -webkit-animation-duration: 2s;
           animation-duration: 2s;
 }
+<div class="cat">
+    <img src="C:\Users\maril\OneDrive\Documents\PORTFOLIO\Portfolio\img\mevoici.png" />
+</div>
+img {
+ max-width: 100%;
+ max-height: 100%;
+}
+.cat {
+ height: 200px;
+ width: 200px;
+}
 
 @-webkit-keyframes bounce {
   0%, 20%, 53%, 80%, 100% {

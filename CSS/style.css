@@ -76,7 +76,7 @@ HERO AREA
    text-align: center;
    background: url(../img/trianglify-background.svg)no-repeat; /*your background image*/
    background-size: cover;
-   max-height: 880px;
+   max-height: 500px;
    overflow: hidden;
 }
 
@@ -87,7 +87,7 @@ HERO AREA
 }
 .heroshot{
    margin-top: 20px;
-   width: 100%;
+   width: 170px;
    max-width: 1200px;
 }
 
